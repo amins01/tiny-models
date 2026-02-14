@@ -1,0 +1,6 @@
+.tiny-env/
+out/
+*datasets/
+ckpts/
+__pycache__/
+frontend/public/
