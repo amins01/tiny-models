@@ -1,0 +1,5 @@
+.dashboard-container {
+    row-gap: 10px;
+    min-height: 256px;
+    min-width: 240px;
+}
