@@ -3,7 +3,9 @@ Small generative models built and trained from scratch to run locally in the bro
 
 ## Current Models
 - **Semantic model:** DiT that generates a landscape image from a drawing (from a semantic palette). More info in the [blog post](https://amins01.github.io/tiny-models/#/semantic)
-<!-- ![semantic](/assets/semantic_gen_demo.mp4) -->
+
+https://github.com/user-attachments/assets/cc07057f-9766-4138-8420-d5b643c4151c
+
 - **Edit model:** DiT for text-based image editing. For the text encoder, I used a pretrained [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 <!-- ![edit](/assets/) -->
 
